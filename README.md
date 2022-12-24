@@ -16,7 +16,7 @@ Used Glide for loading images.
 
 * LOG IN PAGE
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/healthcheck-c7fab.appspot.com/o/images%2FScreenshot%202022-12-24%20at%209.03.22%20PM.png?alt=media&token=3ed87b43-0213-47a3-9784-e45d3ca36acb)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/healthcheck-c7fab.appspot.com/o/images%2FScreenshot%202022-12-24%20at%209.03.22%20PM.png?alt=media&token=3ed87b43-0213-47a3-9784-e45d3ca36acb=250*250)
 
 * SIGNUP PAGE
 
