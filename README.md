@@ -24,4 +24,4 @@ Used Glide for loading images.
 
 * POST PAGE
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/healthcheck-c7fab.appspot.com/o/images%2FScreenshot%202022-12-24%20at%209.31.35%20PM.png?alt=media&token=ff84eea5-fadf-48bd-b78e-41ea9f96c086)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/healthcheck-c7fab.appspot.com/o/images%2FMain.png?alt=media&token=6bf65dfc-aab4-4228-9b3f-d460810007cf)
