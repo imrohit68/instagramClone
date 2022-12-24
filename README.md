@@ -20,7 +20,7 @@ Used Glide for loading images.
 
 * SIGNUP PAGE
 
-![App Screenshot]([https://firebasestorage.googleapis.com/v0/b/healthcheck-c7fab.appspot.com/o/images%2FScreenshot%202022-12-24%20at%209.23.45%20PM.png?alt=media&token=a7f34e04-3e5b-43fa-a491-61b7ea47da02](https://firebasestorage.googleapis.com/v0/b/healthcheck-c7fab.appspot.com/o/images%2FSignUp.png?alt=media&token=1bc554f7-d87f-4408-afa9-2beb91eaf003))
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/healthcheck-c7fab.appspot.com/o/images%2FSignUp.png?alt=media&token=1bc554f7-d87f-4408-afa9-2beb91eaf003)
 
 * POST PAGE
 
